@@ -65,7 +65,7 @@ public class BodymassIndex {
 	{System.out.println("Du bist zu dick!");}
 	else {System.out.println("Dein BMI ist im normalen Bereich");}}}}}}}}}}}}}}}}}}}}}}}}
 	
-	System.out.println("Dein BMI betr√§gt " + bmi + ".");
+	System.out.println("Dein BMI betr‰gt " + bmi + ".");
 
 	}
 
